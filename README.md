@@ -15,7 +15,7 @@ A Colorado Board of Elections employee gave me a set of tasks to complete an ele
 
 ## Summary of Election Audit Results
 The analysis of the election from the image provided show that: 
-![](images/ election_analysis_stmnt.png)
+![](images/election_analysis_stmnt.png)
 - There were 369,711 total votes cast in the election.
 - The Counties in the precinct were
   - Arapahoe
