@@ -1,12 +1,12 @@
 # Election_Analysis
 
 ## Project Overview
-A Colorado Board of Elections employee gave me a set of tasks to complete an election audit of a recent local congressional election. The purpose of this project was to inspect a csv file of an election, and utilize Python coding to read the csv file adn organize accordingly the data set to help determine various results from the election. These results included total number of votes casted, a list of the counties and candidates involved, each countie's and candidate's total votes recieved, a percentage of the countie's and candidate's votes, and the winner of the election based on popular vote. 
+A Colorado Board of Elections employee gave me a set of tasks to complete an election audit of a recent local congressional election. The purpose of this project was to inspect a csv file of an election, and utilize Python coding to read the csv file adn organize accordingly the data set to help determine various results from the election. These results included total number of votes cast, a list of the counties and candidates involved, each countie's and candidate's total votes recieved, a percentage of the countie's and candidate's votes, and the winner of the election based on popular vote. A breakdown of the tasks achieved in this product is listed below:
 
 1. Calculate the total number of votes cast.
-2. Get a complete list of candidates who received votes.
-3. Calculate the total number of votes each candidate received.
-4. Calculate the percentage of votes each candidate won.
+2. Get a complete list of counties and candidates who received votes.
+3. Calculate the total number of votes each county and candidate received.
+4. Calculate the percentage of votes each candidate won and the percentage of votes from each county.
 5. Determine the winner of the election based on popular vote.
 
 ## Resources
