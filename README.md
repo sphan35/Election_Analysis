@@ -16,18 +16,21 @@ A Colorado Board of Elections employee gave me a set of tasks to complete an ele
 ## Summary of Election Audit Results
 The analysis of the election show that:
 - There were 369,711 total votes cast in the election.
--The Counties in the precinct were
+- The Counties in the precinct were
   - Arapahoe
   - Denver
   - Jefferson
+ 
  - The county results were: 
-  - Arapahoe contributed "6.7%" of the total votes with 24,801 votes.
-  - Denver contributed 82.8% of the total votes with 306,055 votes.
-  - Jefferson contributed 10.5% of the total vote with 38,855 votes.
+    - Arapahoe contributed "6.7%" of the total votes with 24,801 votes.
+    - Denver contributed 82.8% of the total votes with 306,055 votes.
+    - Jefferson contributed 10.5% of the total vote with 38,855 votes.
+
 - The candidates were
   - Diana DeGette
   - Raymon Anthony Doane
   - Charles Casper Stockham
+
 - The candidate results were: 
   - Candidate 1 received "x%" of the vote and "y" number of votes.
   - Candidate 2 received "x%" of the vote and "y" number of votes.
