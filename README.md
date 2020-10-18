@@ -14,7 +14,8 @@ A Colorado Board of Elections employee gave me a set of tasks to complete an ele
 - Software: Python 3.8.2, Visual Studio Code, 1.50.0
 
 ## Summary of Election Audit Results
-The analysis of the election show that:
+The analysis of the election from the image provided show that: 
+[]!
 - There were 369,711 total votes cast in the election.
 - The Counties in the precinct were
   - Arapahoe
@@ -40,8 +41,6 @@ The analysis of the election show that:
   - Charles Casper Stockham received 23.0% of the vote and 85,213 number of votes.
 - The winner of the selection was:
   - Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
-
-- Image of our data that was collected and transcribed with VS Code and Python
 
 ## Election Audit Summary
 - 
