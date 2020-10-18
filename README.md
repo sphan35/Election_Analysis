@@ -25,6 +25,9 @@ The analysis of the election show that:
     - Arapahoe contributed "6.7%" of the total votes with 24,801 votes.
     - Denver contributed 82.8% of the total votes with 306,055 votes.
     - Jefferson contributed 10.5% of the total vote with 38,855 votes.
+ 
+ - The county with the largest turnout was:
+    - Denver
 
 - The candidates were
   - Diana DeGette
