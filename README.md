@@ -1,4 +1,4 @@
-# Election_Analysis
+# Election Analysis
 
 ## Project Overview
 A Colorado Board of Elections employee gave me a set of tasks to complete an election analysis audit of a recent local congressional election. The purpose of this project was to inspect a csv file of an election, and utilize Python coding to read the csv file and organize accordingly the data set to help determine various results from the election. These results included total number of votes cast, a list of the counties and candidates involved, each countie's and candidate's total votes recieved, a percentage of the countie's and candidate's votes, and the winner of the election based on popular vote. A breakdown of the tasks achieved in this product is listed below:
@@ -41,6 +41,8 @@ The analysis of the election show that:
 - The winner of the selection was:
   - Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
 
-## Challenge Overview
+- Image of our data that was collected and transcribed with VS Code and Python
 
-## Challenge Summary
+## Election Audit Summary
+- 
+
